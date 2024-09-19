@@ -19,7 +19,7 @@ Imports
   notification (from custom module player): Sends the reminder notifications.
   datetime: Ensures notifications are limited to a specified time window.
 
-remind() Function
+remind() Function:
 The core function of this script:
 Parameters:
   message: The notification text.
